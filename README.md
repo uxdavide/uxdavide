@@ -1,4 +1,4 @@
-# 👋🏻 Ciao, I'm Davide
+# 👋🏻 Hey, I'm @uxdavide
 
 **UX/UI Designer** for SaaS that converts users, not just impresses them.
 
