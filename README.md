@@ -1,26 +1,24 @@
-# Hey, I'm @uxdavide 👋
+# 👋🏻 Ciao, I'm Davide
 
-🚀 **UX/UI Designer** specializing in SaaS products that actually convert
+**UX/UI Designer** for SaaS that converts users, not just impresses them.
 
-## What I do differently
+## 🚀 What makes me different
 
-📊 **Data over opinions** - Every design decision backed by real user feedback  
-🤝 **Developer background** - I speak your language and understand technical constraints  
-🎯 **Business focus** - Interfaces that turn objectives into measurable results  
+I'm an ex-developer who understands both sides of the equation. While most designers focus on making things pretty, I focus on making things work. Every pixel serves a purpose, every interaction drives a result.
 
-## My expertise
+## 🛠️ How I help SaaS founders
 
-- **Product Redesign** → From "hard to understand" to "impossible not to use"
-- **Foundation Builder** → MVP design based on data, not assumptions
-- **Growth Sprint** → Surgical fixes for specific conversion problems
-- **Web Design** → Sites that capture attention and convert it into results
+- **Product Redesign** → Transform confusing interfaces into conversion machines
+- **Foundation Builder** → Build MVP interfaces on solid data, not shaky assumptions  
+- **Growth Sprint** → Identify and fix specific UX bottlenecks killing your conversions
+- **Web Design** → Landing pages that turn visitors into customers
 
-## I work with
+## 🎯 My approach
 
-Solopreneur SaaS founders who want to compete with the big players without the big team.
+**Data-driven decisions** - Real user feedback beats personal opinions  
+**Technical understanding** - I know what's feasible and what's just wishful thinking  
+**Business mindset** - Every design choice connects to your bottom line  
 
-*Zero fluff. Just measurable impact.*
+## 🤝🏻 Perfect for
 
----
-
-📍 **Based in Europe** | 🤝 **Let's build something that matters**
+Technical founders building SaaS products who want enterprise-level UX without the enterprise team.
